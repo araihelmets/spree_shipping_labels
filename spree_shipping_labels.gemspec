@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'spree_core', '~> 3.0'
 
-  s.add_dependency 'active_shipping', '~> 1.0.0.pre4'
+  s.add_dependency 'active_shipping', '~> v1.0.0.pre4'
 
   # For minipulating the image coming from UPS
   s.add_dependency 'data_uri'
